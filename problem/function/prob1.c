@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int sum();
+int sum(int x, int y);
 
 int main(void){
    int answer = sum(4, 6);
